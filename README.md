@@ -13,28 +13,28 @@
 # 🛠 Installation
  Termux Installation:
 
-``pkg update && pkg upgrade
-pkg install python
-pkg install git
-pip install pyfiglet termcolor requests
-git clone https://github.com/npxarmy/NPTracerX.git
-cd NPTracerX
-python locationfinder.py``
+``pkg update && pkg upgrade``
+``pkg install python``
+``pkg install git``
+``pip install pyfiglet termcolor requests``
+``git clone https://github.com/npxAbuzar/np-IpTracerX.git``
+``cd np-IpTracerX``
+``python locationfinder.py``
 
 # 💻 Kali Linux Installation:
 
-``sudo apt update && sudo apt upgrade
-sudo apt install python3-pip git
-pip3 install pyfiglet termcolor requests
-git clone https://github.com/npxarmy/NPTracerX.git
-cd np-IpTracerX
-python3 locationfinder.py``
+``sudo apt update && sudo apt upgrade``
+``sudo apt install python3-pip git``
+``pip3 install pyfiglet termcolor requests``
+``git clone https://github.com/npxAbuzar/np-IpTracerX.git``
+``cd np-IpTracerX``
+``python3 locationfinder.py``
 
 #  Requirements
 
-``pyfiglet
-termcolor
-requests``
+``pyfiglet 
+ termcolor
+ requests``
 ## 📌 Install them with:
 
 ``pip install pyfiglet termcolor requests``
@@ -42,7 +42,7 @@ requests``
 
 # 🔹 Run the tool:
 
-python locationfinder.py
+``python locationfinder.py``
 
 
 
